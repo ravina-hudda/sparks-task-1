@@ -1,20 +1,21 @@
 # Sparks-task-1
 Basic Banking System
 
-Introduction
+# Introduction
 A web application used to transfer money between two users. And having 10 user in it
 
-Technologies Used:
+# Technologies Used:
 HTML
 CSS
 JAVASCRIPT
 
-Below are the screenshots of the website:
-![Basic banking system - Google Chrome 21-06-2023 00_52_05](https://github.com/ravina-hudda/Sparks-task-1/assets/105847305/4367d3ed-6980-4d05-895d-c0ae211d7c93)
-![Basic banking system - Google Chrome 21-06-2023 00_52_15](https://github.com/ravina-hudda/Sparks-task-1/assets/105847305/ae4a14cd-dcdf-4ce0-91a8-9c120ab2df9c)
-![Basic banking system - Google Chrome 21-06-2023 00_52_49](https://github.com/ravina-hudda/Sparks-task-1/assets/105847305/6f1b071e-5873-416d-8816-cc70cbc09da0)
-![Basic banking system - Google Chrome 21-06-2023 00_52_57](https://github.com/ravina-hudda/Sparks-task-1/assets/105847305/007ec0f2-8788-4a56-85c5-0455e1f21c16)
-![Basic banking system - Google Chrome 21-06-2023 00_52_27](https://github.com/ravina-hudda/Sparks-task-1/assets/105847305/a63cb6bc-b45e-4b7b-ae89-75882614c44b)
-![Basic banking system - Google Chrome 21-06-2023 00_52_49](https://github.com/ravina-hudda/Sparks-task-1/assets/105847305/b696d4a6-1509-4cb2-bbe6-798c59c0326d)
-![Basic banking system - Google Chrome 21-06-2023 00_52_57](https://github.com/ravina-hudda/Sparks-task-1/assets/105847305/4491497e-3115-4e9a-8b11-4e61c2e8bbff)
+# Below are the screenshots of the website:
+![Basic banking system - Google Chrome 21-06-2023 00_57_44](https://github.com/ravina-hudda/Sparks-task-1/assets/105847305/0b547b7a-6b51-4a34-b312-3c2d6dab5810)
+![Basic banking system - Google Chrome 21-06-2023 00_57_51](https://github.com/ravina-hudda/Sparks-task-1/assets/105847305/9365c482-2450-47fb-b3d3-4252d120b2c7)
+![Basic banking system - Google Chrome 21-06-2023 00_57_58](https://github.com/ravina-hudda/Sparks-task-1/assets/105847305/824c4325-5fe1-44ff-b046-cb0f2d8c0d03)
+![Basic banking system - Google Chrome 21-06-2023 00_58_06](https://github.com/ravina-hudda/Sparks-task-1/assets/105847305/c9551cc6-034f-4e49-8da6-d6e841e28701)
+![Basic banking system - Google Chrome 21-06-2023 00_58_13](https://github.com/ravina-hudda/Sparks-task-1/assets/105847305/3f0e937c-ba95-417e-937f-2d85258b8c72)
+
+
+
 
